@@ -50,7 +50,7 @@ As a technician in Digital Systems, I have carried out several projects, but in 
 
 <h3> 🤝🏻 Connect with Me 🤝</h3>
 <p align="center">
-<a href="www.linkedin.com/in/miguel-monteros"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/miguel-monteros/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/miguel.chino.mont/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-miguel.chino.mont_-black?style=flat-square&logo=instagram"></a>
 <a href="mailto:mmonteros1pn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mmonteros1pn@gmail.com-blue?style=flat-square&logo=gmail"></a>    
 </p>  
