@@ -3,7 +3,11 @@
 </p>
 
 ### 👨‍🎓 About Me 👨‍🎓
-There are many things that I love to do, but learning about IT is the most important one, I've been studying by my self since I was 12 years, Has been a very long way to became here, but I want to become a **Data Enginieer**, because since I meet how the data was structured in a System, I was surprised of how manege the data, and want to help the most important companies to design, manipulate and structure the data storage, for a better future in the IT wourld
+I'm a student at ESCOM, despite my great fascination with electronics, in recent years I have dedicated much of my time to specialize in Data, from DB management, exploratory analysis, predictions models, Machine Learning models, I have even made image analysis for disease detection and emotion classification.
+
+I'm a great computer enthusiast, I've been in academic excellence for two and a half years, and I have a Santander scholarship in Data Science.
+
+My countries besides computers are motorsport, I am a big fan of Formula 1, I also like to cook and collect cacti.
 
 
 ### 👨🏻‍💻 Programming Languages👨🏻‍💻
@@ -54,5 +58,3 @@ As a technician in Digital Systems, I have carried out several projects, but in 
 <a href="https://www.instagram.com/miguel.chino.mont/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-miguel.chino.mont_-black?style=flat-square&logo=instagram"></a>
 <a href="mailto:mmonteros1pn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mmonteros1pn@gmail.com-blue?style=flat-square&logo=gmail"></a>    
 </p>  
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
