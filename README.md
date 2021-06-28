@@ -36,6 +36,12 @@ We know that traveling in a city like CDMX can be dangerous, that is why we desi
   <a href="https://drive.google.com/file/d/1dmfK9QyaHT1cSV4mkXadrYs1SIIeGwk4/view?usp=sharing"><img src="Images/OptiSafe.png" /> </a>
 </p>
 
+#### Artificial Intelligence and Data Science Mini Proyects
+Considero que la IA es una de las tecnologías más importantes hoy en dia, es por ello que me he dedicado a investigar en distintas fuentes sobre los algoritmos más importantes y he realizado varias libretas que puedes checar en mi repositorio (click en la imagen).
+<p align="center">
+  <a href="https://github.com/miguelmontcerv/Artificial-Intelligence"><img src="Images/IA.jpg" /> </a>
+</p>
+
 
 <h3> 🤝🏻 Connect with Me 🤝</h3>
 <p align="center">
