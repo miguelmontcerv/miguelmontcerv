@@ -15,8 +15,14 @@ There are many things that I love to do, but learning about IT is the most impor
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 </p><br>
-<a href="https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-</p><br>
+
+### Proyects
+#### Data Science Aplication (Artificial Love)
+Imagine using a dating application, where you magically find a person who looks like the one you have always looked for, they also have the same favorite band, because now it is possible to find that person only with **Artificial Love**, because we know it's about chemistry, but statistics may help.
+<p align="center">
+  <a href="https://www.figma.com/proto/Ew3mFVME48Oagi8ceXwbpf/Proyectoo-2021?node-id=378%3A0&scaling=contain&page-id=0%3A1"><img src="Images/ArtificialLove.png" /> </a>
+</p>
+
 <h3> 🤝🏻 Connect with Me 🤝</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-f-coto/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
