@@ -50,9 +50,9 @@ As a technician in Digital Systems, I have carried out several projects, but in 
 
 <h3> 🤝🏻 Connect with Me 🤝</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/luis-f-coto/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/luiscoto._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-luiscoto._-black?style=flat-square&logo=instagram"></a>
-<a href="mailto:luisfcoto@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-luisfcoto@outlook.com-blue?style=flat-square&logo=gmail"></a>    
+<a href="www.linkedin.com/in/miguel-monteros"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/miguel.chino.mont/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-miguel.chino.mont._-black?style=flat-square&logo=instagram"></a>
+<a href="mailto:mmonteros1pn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mmonteros1pn@gmail.com-blue?style=flat-square&logo=gmail"></a>    
 </p>  
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
