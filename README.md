@@ -45,7 +45,7 @@ I consider AI to be one of the most important technologies today, that is why I 
 #### Digital Design Projects
 As a technician in Digital Systems, I have carried out several projects, but in the following repository are the most important ones that I did while studying at ESCOM, some of these projects are carried out in the remote laboratory of the school.
 <p align="center">
-  <a href="https://github.com/miguelmontcerv/Digital-Design"><img src="Images/Digital.png" /> </a>
+  <a href="https://github.com/miguelmontcerv/Digital-Design"><img src="Images/Digital.PNG" /> </a>
 </p>
 
 <h3> 🤝🏻 Connect with Me 🤝</h3>
