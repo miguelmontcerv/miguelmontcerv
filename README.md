@@ -36,13 +36,13 @@ We know that traveling in a city like CDMX can be dangerous, that is why we desi
   <a href="https://drive.google.com/file/d/1dmfK9QyaHT1cSV4mkXadrYs1SIIeGwk4/view?usp=sharing"><img src="Images/OptiSafe.png" /> </a>
 </p>
 
-#### Artificial Intelligence and Data Science Mini Proyects
+#### 🤖 Artificial Intelligence and Data Science Mini Proyects 🤖
 I consider AI to be one of the most important technologies today, that is why I have dedicated myself to researching the most important algorithms in different sources and I have made several notebooks that you can check in my repository (click on the image).
 <p align="center">
   <a href="https://github.com/miguelmontcerv/Artificial-Intelligence"><img src="Images/IA.jpg" /> </a>
 </p>
 
-#### Digital Design Projects
+#### 🖲 Digital Design Projects 🖲
 As a technician in Digital Systems, I have carried out several projects, but in the following repository are the most important ones that I did while studying at ESCOM, some of these projects are carried out in the remote laboratory of the school.
 <p align="center">
   <a href="https://github.com/miguelmontcerv/Digital-Design"><img src="Images/Digital.PNG" /> </a>
