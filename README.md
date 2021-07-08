@@ -3,7 +3,7 @@
 </p>
 
 ### 👨‍🎓 About Me 👨‍🎓
-I'm a student at ESCOM, despite my great fascination with electronics, in recent years I have dedicated much of my time to specialize in Data, from DB management, exploratory analysis, predictions models, Machine Learning models, I have even made image analysis for disease detection and emotion classification.
+I'm a student in ESCOM, despite my great fascination with electronics, in recent years I have dedicated much of my time to specialize in Data, from DB management, exploratory analysis, predictions models, Machine Learning models, I have even made image analysis for disease detection and emotion classification.
 
 I'm a great computer enthusiast, I've been in academic excellence for two and a half years, and I have a Santander scholarship in Data Science.
 
