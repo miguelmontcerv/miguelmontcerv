@@ -11,18 +11,7 @@ My countries besides computers are motorsport, I am a big fan of Formula 1, I al
 
 
 ### 👨🏻‍💻 Programming Languages👨🏻‍💻
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-414141?style=flat-square&logo=bootstrap)
-![C](https://img.shields.io/badge/-C-414141?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-414141?style=flat-square&logo=c)
-![CSS3](https://img.shields.io/badge/-CSS3-414141?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-414141?style=flat-square&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-414141?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-414141?style=flat-square&logo=java)
-![LaTeX](https://img.shields.io/badge/-LaTeX-414141?style=flat-square&logo=latex)
-![Linux](https://img.shields.io/badge/-Linux-414141?style=flat-square&logo=linux)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQl-414141?style=flat-square&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-414141?style=flat-square&logo=Python)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd46d121-e7f2-4f84-8394-8687995d045d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### Proyects
 #### 💖 Data Science Aplication (Artificial Love) 2021 💖
