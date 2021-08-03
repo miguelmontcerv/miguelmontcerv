@@ -10,9 +10,9 @@ I'm a great computer enthusiast, I've been in academic excellence for two and a 
 My countries besides computers are motorsport, I am a big fan of Formula 1, I also like to cook and collect cacti.
 
 
-### 👨🏻‍💻 Programming Languages👨🏻‍💻
+### 👨🏻‍💻 Badges 👨🏻‍💻
 <p align="center">
-  <a href="https://www.credly.com/badges/9aa420a8-9264-4e5f-8138-f1cdff92d6d5/public_url"><img src="Images/InsigniasAgosto2021.PNG" width="300" height="130"/> </a>
+  <a href="https://www.credly.com/badges/9aa420a8-9264-4e5f-8138-f1cdff92d6d5/public_url"><img src="Images/InsigniasAgosto2021.PNG" width="300" height="140"/> </a>
 </p>
 
 ### Proyects
