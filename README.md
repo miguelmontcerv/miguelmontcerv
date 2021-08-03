@@ -12,7 +12,7 @@ My countries besides computers are motorsport, I am a big fan of Formula 1, I al
 
 ### 👨🏻‍💻 Programming Languages👨🏻‍💻
 <p align="center">
-  <a href="https://www.credly.com/badges/9aa420a8-9264-4e5f-8138-f1cdff92d6d5/public_url"><img src="Images/InsigniasAgosto2021.PNG" /> </a>
+  <a href="https://www.credly.com/badges/9aa420a8-9264-4e5f-8138-f1cdff92d6d5/public_url"><img src="Images/InsigniasAgosto2021.PNG" width="700" height="500"/> </a>
 </p>
 
 ### Proyects
