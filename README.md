@@ -12,7 +12,8 @@ My countries besides computers are motorsport, I am a big fan of Formula 1, I al
 
 ### 👨🏻‍💻 Badges 👨🏻‍💻
 <p align="center">
-  <a href="https://www.credly.com/badges/9aa420a8-9264-4e5f-8138-f1cdff92d6d5/public_url"><img src="Images/prototype-data-science-santander-universidades.png" width="140" height="145"/> </a>
+  <a href="https://www.credly.com/badges/9aa420a8-9264-4e5f-8138-f1cdff92d6d5/public_url"><img src="Images/prototype-data-science-santander-universidades.png" width="160" height="165"/> </a>
+  <a href="https://www.credly.com/badges/9aa420a8-9264-4e5f-8138-f1cdff92d6d5/public_url"><img src="Images/data-science-santander-universidades.png" width="160" height="165"/> </a>
 </p>
 
 ### Proyects
