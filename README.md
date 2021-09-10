@@ -15,7 +15,7 @@ My countries besides computers are motorsport, I am a big fan of Formula 1, I al
   <a href="https://www.credly.com/badges/9aa420a8-9264-4e5f-8138-f1cdff92d6d5/public_url"><img src="Images/prototype-data-science-santander-universidades.png" width="163" height="168"/> </a>
   <a href="https://www.credly.com/badges/cd46d121-e7f2-4f84-8394-8687995d045d/public_url"><img src="Images/data-science-santander-universidades.png" width="165" height="170"/> </a>
   <a href="https://drive.google.com/file/d/1kmn3Rcb5_CkLl5mQRZIe1Ya9XLmcl7hi/view?usp=sharing"><img src="Images/badge-azure-foundamentals.png" width="165" height="170"/> </a>
-  <a href="https://drive.google.com/file/d/1_PJKNkjYer1HsFP3o0Sv5NNbUq8fDodq/view?usp=sharing"><img src="Images/BigData.png" width="160" height="175"/> </a>
+  <a href="https://drive.google.com/file/d/1_PJKNkjYer1HsFP3o0Sv5NNbUq8fDodq/view?usp=sharing"><img src="Images/BigData.png" width="150" height="165"/> </a>
 </p>
 
 ### Proyects
